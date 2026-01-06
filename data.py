@@ -11,3 +11,4 @@ with open("data.csv", mode="w", newline="") as file:
         writer.writerow([name, age, city])
 
 print("CSV file created successfully")
+
